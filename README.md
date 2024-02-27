@@ -1,4 +1,4 @@
-# Creating logical volumes via a basj script
+# Creating logical volumes via a bash script
 
 How to access Googles Cloud Shell so that you can execute the gcloud commands below - https://cloud.google.com/shell/docs/launching-cloud-shell 
 
